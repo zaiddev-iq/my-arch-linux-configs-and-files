@@ -27,3 +27,4 @@ things i need to install
 24- cava
 25- brightnessctl
 26- swaync
+27- oh-my-zsh
