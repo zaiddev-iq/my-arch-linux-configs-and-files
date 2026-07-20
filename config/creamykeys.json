@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "keyboardSounds": true,
+  "mouseSounds": true,
+  "playInMenus": true,
+  "keyboardPrimary": "cherrymx_black_pbt",
+  "keyboardSecondary": "cherrymx_black_abs",
+  "volumeKeyboard": 1.0,
+  "volumeMouse": 1.0,
+  "amplifyKeyboard": 1,
+  "amplifyMouse": 1,
+  "autoUpdate": false,
+  "autoUpdateFirstRunComplete": false,
+  "autoUpdateTouched": false
+}

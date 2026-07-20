@@ -1,0 +1,39 @@
+@import "font.css";
+@import "font.css";
+@import "font.css";
+
+/* بقية تنسيقات شريط Waybar الخاص بك ستبدأ من هنا */
+/* استيراد مباشر وصريح باستخدام اسم المستخدم الخاص بك */
+@import url("/home/jazaydcvbnmk1/.cache/wal/colors-waybar.css");
+
+/* شريط البار الأساسي شفاف بالكامل */
+window#waybar {
+    background-color: transparent;
+    font-family: "JetBrainsMono Nerd Font", "JetBrains Mono", "Symbols Nerd Font", monospace;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+/* تنسيق الكبسولات الدائرية الموحدة الألوان متطابقة مع التقويم @color2 */
+#clock, 
+#backlight, 
+#battery, 
+#pulseaudio,
+#network {
+    background-color: rgba(20, 20, 20, 0.65); 
+    color: @color2;            
+    border: 2px solid @color2; 
+    border-radius: 20px; 
+    padding: 6px 16px;   
+    margin: 6px 6px;
+}
+
+/* استثناء حالات البطارية الطارئة فقط */
+#battery.warning {
+    color: #ffb627;
+    border-color: #ffb627;
+}
+#battery.critical {
+    color: #ff3333;
+    border-color: #ff3333;
+}

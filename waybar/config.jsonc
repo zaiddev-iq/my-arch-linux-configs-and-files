@@ -1,0 +1,43 @@
+{
+    "layer": "bottom",
+    "position": "top",
+    "modules-left": ["clock#calendar"],
+    "modules-center": [],
+    "modules-right": ["backlight", "battery", "pulseaudio", "network", "clock#time"],
+
+    "clock#calendar": {
+        "format": "  {:%A, %B %d}"
+    },
+    "backlight": {
+        "format": "  {percent}%"
+    },
+    "battery": {
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "  {capacity}%",
+        "format-charging": "  {capacity}%",
+        "format-plugged": "  {capacity}%"
+    },
+    "pulseaudio": {
+        "format": "{icon}  {volume}%",
+        "max-volume": 150,
+        "format-muted": "   Muted",
+        "format-icons": {
+            "default": [" ", " "]
+        },
+        "scroll-step": 5,
+        "on-click": "pavucontrol"
+    },
+    "network": {
+        "format-wifi": "  {essid}",
+        "format-ethernet": "    {ifname}",
+        "format-disconnected": "    Offline",
+        "on-click": "nm-connection-editor"
+    },
+    "clock#time": {
+        "format": "  {:%I:%M %p}"
+    }
+}
+
