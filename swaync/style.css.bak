@@ -1,0 +1,6 @@
+@import url("file:///home/jazaydcvbnmk1/.cache/wal/colors-waybar.css");
+.notification {
+    background: @color0;
+    border: 2px solid @color4;
+    color: @color7;
+}
