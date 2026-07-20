@@ -1,0 +1,6797 @@
+{
+ "sections": {
+  "base": {
+   "data": {
+    "adultEquips": {
+     "buttonItems": [
+      60,
+      3,
+      2,
+      8,
+      255,
+      255,
+      255,
+      255
+     ],
+     "cButtonSlots": [
+      3,
+      2,
+      7,
+      255,
+      255,
+      255,
+      255
+     ],
+     "equipment": 4386
+    },
+    "backupFW": {
+     "entranceIndex": 0,
+     "playerParams": 0,
+     "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+     },
+     "roomIndex": 0,
+     "set": 0,
+     "tempCollectFlags": 0,
+     "tempSwchFlags": 0,
+     "yaw": 0
+    },
+    "bgsDayCount": 121,
+    "bgsFlag": 0,
+    "childEquips": {
+     "buttonItems": [
+      59,
+      14,
+      38,
+      8,
+      255,
+      255,
+      255,
+      255
+     ],
+     "cButtonSlots": [
+      12,
+      23,
+      7,
+      255,
+      255,
+      255,
+      255
+     ],
+     "equipment": 4370
+    },
+    "cutsceneIndex": 0,
+    "dayTime": 3805,
+    "deaths": 39,
+    "dogParams": 0,
+    "entranceIndex": 425,
+    "entrances": null,
+    "equips": {
+     "buttonItems": [
+      60,
+      17,
+      10,
+      8,
+      255,
+      255,
+      255,
+      255
+     ],
+     "cButtonSlots": [
+      15,
+      9,
+      7,
+      255,
+      255,
+      255,
+      255
+     ],
+     "equipment": 4386
+    },
+    "eventChkInf": [
+     5820,
+     31101,
+     32808,
+     1931,
+     52009,
+     3619,
+     35968,
+     79,
+     12293,
+     4160,
+     1019,
+     1791,
+     738,
+     3156
+    ],
+    "filenameLanguage": 0,
+    "fw": {
+     "entranceIndex": 361,
+     "playerParams": 1791,
+     "pos": {
+      "x": -841,
+      "y": 383,
+      "z": -1439
+     },
+     "roomIndex": 5,
+     "set": 0,
+     "tempCollectFlags": 131082,
+     "tempSwchFlags": 0,
+     "yaw": -16384
+    },
+    "gsFlags": [
+     262144,
+     3,
+     196608,
+     604702471,
+     197119,
+     0
+    ],
+    "health": 120,
+    "healthCapacity": 160,
+    "highScores": [
+     0,
+     1000,
+     -869855435,
+     49,
+     0,
+     0,
+     70
+    ],
+    "horseData": {
+     "angle": -9037,
+     "pos": {
+      "x": -2544,
+      "y": -1033,
+      "z": 3477
+     },
+     "scene": 87
+    },
+    "infTable": [
+     4107,
+     16416,
+     272,
+     0,
+     0,
+     0,
+     64,
+     16576,
+     22576,
+     1152,
+     2048,
+     833,
+     1010,
+     0,
+     73,
+     4369,
+     23040,
+     1032,
+     16,
+     0,
+     254,
+     0,
+     1,
+     5,
+     0,
+     2476,
+     4383,
+     0,
+     0,
+     0
+    ],
+    "inventory": {
+     "ammo": [
+      30,
+      9,
+      20,
+      36,
+      0,
+      0,
+      50,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6
+     ],
+     "defenseHearts": 0,
+     "dungeonItems": [
+      6,
+      6,
+      6,
+      7,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     "dungeonKeys": [
+      -1,
+      -1,
+      -1,
+      0,
+      0,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+     ],
+     "equipment": 4915,
+     "gsTokens": 27,
+     "items": [
+      0,
+      1,
+      2,
+      3,
+      255,
+      5,
+      6,
+      8,
+      255,
+      10,
+      255,
+      13,
+      14,
+      255,
+      16,
+      17,
+      255,
+      255,
+      24,
+      24,
+      24,
+      24,
+      46,
+      38
+     ],
+     "questItems": 817887459,
+     "upgrades": 2544714
+    },
+    "isDoubleDefenseAcquired": 0,
+    "isDoubleMagicAcquired": 1,
+    "isMagicAcquired": 1,
+    "isMasterQuest": false,
+    "itemGetInf": [
+     30724,
+     25577,
+     4152,
+     768
+    ],
+    "linkAge": 0,
+    "magic": 96,
+    "magicLevel": 2,
+    "maskMemory": 0,
+    "n64ddFlag": false,
+    "naviTimer": 3016,
+    "nightFlag": 1,
+    "ocarinaGameRoundNum": 3,
+    "playerName": [
+     11,
+     24,
+     11,
+     62,
+     62,
+     62,
+     62,
+     62
+    ],
+    "randomizerInf": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "rupees": 120,
+    "savedSceneNum": 91,
+    "scarecrowLongSong": [
+     {
+      "noteIdx": 255,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 34560,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 3072,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 9,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 9,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 3072,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 11520,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 9,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 9216,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 9,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 5376,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 9,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 3840,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 9,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 5,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 9,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 9,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 3072,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 3840,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 5,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 9,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 3840,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 5,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 9,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 5,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 5,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 768,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 9,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 1536,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 3072,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 2304,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     }
+    ],
+    "scarecrowLongSongSet": 1,
+    "scarecrowSpawnSong": [
+     {
+      "noteIdx": 5,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 66,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 3,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 66,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 12,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 66,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 6,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 63,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 6,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 5,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 60,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 6,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 57,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 9,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 11,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 54,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 255,
+      "semitone": 192,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 9,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 14,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 93,
+      "vibrato": 0,
+      "volume": 87
+     },
+     {
+      "noteIdx": 0,
+      "semitone": 0,
+      "tone": 0,
+      "unk_01": 0,
+      "unk_02": 0,
+      "vibrato": 0,
+      "volume": 0
+     }
+    ],
+    "scarecrowSpawnSongSet": 1,
+    "sceneFlags": [
+     {
+      "chest": 62,
+      "clear": 514,
+      "collect": 0,
+      "floors": 248,
+      "rooms": 1791,
+      "swch": 2149287933,
+      "unk": 0
+     },
+     {
+      "chest": 1392,
+      "clear": 32768,
+      "collect": 0,
+      "floors": 192,
+      "rooms": 112639,
+      "swch": 2920308213,
+      "unk": 0
+     },
+     {
+      "chest": 22,
+      "clear": 8000,
+      "collect": 0,
+      "floors": 192,
+      "rooms": 57343,
+      "swch": 4278262788,
+      "unk": 0
+     },
+     {
+      "chest": 64143,
+      "clear": 2438208,
+      "collect": 0,
+      "floors": 240,
+      "rooms": 8388607,
+      "swch": 4093051839,
+      "unk": 0
+     },
+     {
+      "chest": 8063,
+      "clear": 16809992,
+      "collect": 0,
+      "floors": 248,
+      "rooms": 100646527,
+      "swch": 4020011007,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 1073741824,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 32,
+      "rooms": 1,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 160,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 2,
+      "collect": 2147483648,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 1,
+      "clear": 2,
+      "collect": 2147483648,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 2,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 2,
+      "collect": 2147483648,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 2,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 1048576,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 2,
+      "collect": 2147483648,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 1048576,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 2,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 2,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 4,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 76678925,
+      "clear": 132,
+      "collect": 2,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 1,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 2,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 1,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 1,
+      "clear": 16,
+      "collect": 2,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 228,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 4290926856,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 2147483648,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 8,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 2064,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 300,
+      "unk": 0
+     },
+     {
+      "chest": 1,
+      "clear": 0,
+      "collect": 1879359488,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 2148008448,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 2147500032,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 1073741824,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 2050,
+      "unk": 0
+     },
+     {
+      "chest": 1,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 2147483649,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 2097160,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 524288,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 3221619088,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 50,
+      "unk": 0
+     },
+     {
+      "chest": 2,
+      "clear": 0,
+      "collect": 1024,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 1310,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 4,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 4057989120,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 402790775,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 0,
+      "clear": 0,
+      "collect": 0,
+      "floors": 0,
+      "rooms": 0,
+      "swch": 0,
+      "unk": 0
+     }
+    ],
+    "swordHealth": 0,
+    "totalDays": 121,
+    "unk_54": 0,
+    "worldMapAreaData": 3135487
+   },
+   "version": 4
+  },
+  "itemTrackerData": {
+   "data": {
+    "entrances": null,
+    "personalNotes": ""
+   },
+   "version": 1
+  },
+  "sohStats": {
+   "data": {
+    "buildVersion": "Copper Charlie (9.1.2)",
+    "buildVersionMajor": 9,
+    "buildVersionMinor": 1,
+    "buildVersionPatch": 2,
+    "counts": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     11,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     2,
+     0,
+     0,
+     13,
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0,
+     16,
+     2,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     3,
+     1,
+     0,
+     0,
+     0,
+     10,
+     0,
+     0,
+     0,
+     4,
+     8,
+     2,
+     0,
+     0,
+     3,
+     0,
+     0,
+     0,
+     5,
+     2,
+     6,
+     0,
+     0,
+     2,
+     0,
+     0,
+     21,
+     68,
+     43,
+     4,
+     0,
+     1,
+     7966,
+     2610,
+     35,
+     117,
+     2849,
+     411,
+     483,
+     754,
+     661,
+     43,
+     67,
+     76,
+     40,
+     356,
+     1450,
+     800,
+     17,
+     1724,
+     0,
+     3213,
+     59,
+     182,
+     24935,
+     94,
+     192,
+     719,
+     59,
+     13,
+     0
+    ],
+    "dungeonKeys": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "entrances": null,
+    "entrancesDiscovered": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     134217728,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     4,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "fileCreatedAt": 1775849439707,
+    "heartContainers": 1,
+    "heartPieces": 4,
+    "itemTimestamps": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     201900,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     7898,
+     18211,
+     69834,
+     0,
+     0,
+     0,
+     0,
+     0,
+     9841,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     23994,
+     0,
+     0,
+     178250,
+     0,
+     0,
+     170076,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     14848,
+     0,
+     0,
+     171465,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     213691,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     25802,
+     0,
+     8983,
+     216259,
+     0,
+     0,
+     0,
+     188151,
+     175039,
+     797,
+     830,
+     36976,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     42697,
+     12432,
+     770,
+     49657,
+     49961,
+     55014,
+     66188,
+     0,
+     0,
+     0,
+     41264,
+     0,
+     43167,
+     209268,
+     224044,
+     0,
+     171222,
+     177167,
+     0,
+     0,
+     0,
+     0,
+     16431,
+     80506,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     213273,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "pauseTimer": 101509,
+    "playTimer": 788822,
+    "rtaTiming": false,
+    "sceneTimestamps": [
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 86,
+      "scene": 81,
+      "sceneTime": 86
+     },
+     {
+      "isRoom": 1,
+      "room": 8,
+      "roomTime": 72,
+      "scene": 91,
+      "sceneTime": 41
+     },
+     {
+      "isRoom": 1,
+      "room": 7,
+      "roomTime": 43,
+      "scene": 91,
+      "sceneTime": 2118
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 40,
+      "scene": 91,
+      "sceneTime": 46
+     },
+     {
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 258,
+      "scene": 91,
+      "sceneTime": 83
+     },
+     {
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 83,
+      "scene": 91,
+      "sceneTime": 869
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 162,
+      "scene": 37,
+      "sceneTime": 162
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 141,
+      "scene": 67,
+      "sceneTime": 100
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 293,
+      "scene": 67,
+      "sceneTime": 49
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 177,
+      "scene": 81,
+      "sceneTime": 177
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 168,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 272,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 99,
+      "scene": 67,
+      "sceneTime": 540
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 99,
+      "scene": 35,
+      "sceneTime": 99
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 65,
+      "scene": 32,
+      "sceneTime": 65
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 813,
+      "scene": 51,
+      "sceneTime": 813
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 134,
+      "scene": 32,
+      "sceneTime": 134
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 59,
+      "scene": 27,
+      "sceneTime": 59
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 355,
+      "scene": 81,
+      "sceneTime": 355
+     },
+     {
+      "isRoom": 0,
+      "room": 13,
+      "roomTime": 490,
+      "scene": 62,
+      "sceneTime": 490
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 238,
+      "scene": 67,
+      "sceneTime": 157
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 597,
+      "scene": 67,
+      "sceneTime": 960
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 408,
+      "scene": 81,
+      "sceneTime": 408
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 56,
+      "scene": 27,
+      "sceneTime": 56
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 98,
+      "scene": 32,
+      "sceneTime": 98
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 349,
+      "scene": 51,
+      "sceneTime": 349
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 730,
+      "scene": 32,
+      "sceneTime": 730
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 90,
+      "scene": 27,
+      "sceneTime": 90
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 378,
+      "scene": 81,
+      "sceneTime": 378
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 796,
+      "scene": 99,
+      "sceneTime": 796
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 243,
+      "scene": 76,
+      "sceneTime": 243
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 83,
+      "scene": 99,
+      "sceneTime": 83
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 224,
+      "scene": 81,
+      "sceneTime": 224
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 482,
+      "scene": 86,
+      "sceneTime": 482
+     },
+     {
+      "isRoom": 1,
+      "room": 8,
+      "roomTime": 71,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 262,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 333,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 69,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 60,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 6,
+      "roomTime": 196,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 44,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 7,
+      "roomTime": 91,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 8,
+      "roomTime": 54,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 7,
+      "roomTime": 36,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 40,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 6,
+      "roomTime": 19,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 6,
+      "roomTime": 9,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 6,
+      "roomTime": 53,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 63,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 126,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 757,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 7,
+      "roomTime": 59,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 8,
+      "roomTime": 53,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 7,
+      "roomTime": 42,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 4,
+      "roomTime": 79,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 36,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 60,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 39,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 98,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 81,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 42,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 9,
+      "roomTime": 144,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 682,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 9,
+      "roomTime": 77,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 55,
+      "scene": 98,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 65,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 2066,
+      "scene": 97,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 3,
+      "roomTime": 58,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 8,
+      "roomTime": 62,
+      "scene": 91,
+      "sceneTime": 2992
+     },
+     {
+      "isRoom": 1,
+      "room": 7,
+      "roomTime": 46,
+      "scene": 91,
+      "sceneTime": 380
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 72,
+      "scene": 91,
+      "sceneTime": 100
+     },
+     {
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 1956,
+      "scene": 4,
+      "sceneTime": 95
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 79,
+      "scene": 4,
+      "sceneTime": 190
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 1668,
+      "scene": 4,
+      "sceneTime": 228
+     },
+     {
+      "isRoom": 1,
+      "room": 19,
+      "roomTime": 596,
+      "scene": 4,
+      "sceneTime": 310
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 264,
+      "scene": 4,
+      "sceneTime": 528
+     },
+     {
+      "isRoom": 1,
+      "room": 20,
+      "roomTime": 377,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 724,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 21,
+      "roomTime": 2041,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 460,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 22,
+      "roomTime": 414,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 186,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 21,
+      "roomTime": 1106,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 2090,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 831,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 23,
+      "roomTime": 383,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 109,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 6,
+      "roomTime": 77,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 16,
+      "roomTime": 498,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 6,
+      "roomTime": 124,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 16,
+      "roomTime": 285,
+      "scene": 4,
+      "sceneTime": 3256
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 869,
+      "scene": 4,
+      "sceneTime": 220
+     },
+     {
+      "isRoom": 1,
+      "room": 6,
+      "roomTime": 69,
+      "scene": 4,
+      "sceneTime": 112
+     },
+     {
+      "isRoom": 1,
+      "room": 16,
+      "roomTime": 275,
+      "scene": 4,
+      "sceneTime": 95
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 139,
+      "scene": 4,
+      "sceneTime": 65
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 817,
+      "scene": 4,
+      "sceneTime": 288
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 726,
+      "scene": 4,
+      "sceneTime": 137
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 201,
+      "scene": 4,
+      "sceneTime": 73
+     },
+     {
+      "isRoom": 1,
+      "room": 21,
+      "roomTime": 163,
+      "scene": 4,
+      "sceneTime": 322
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 170,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 21,
+      "roomTime": 453,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 172,
+      "scene": 4,
+      "sceneTime": 493
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 185,
+      "scene": 4,
+      "sceneTime": 85
+     },
+     {
+      "isRoom": 1,
+      "room": 16,
+      "roomTime": 542,
+      "scene": 4,
+      "sceneTime": 90
+     },
+     {
+      "isRoom": 1,
+      "room": 6,
+      "roomTime": 161,
+      "scene": 4,
+      "sceneTime": 47
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 170,
+      "scene": 4,
+      "sceneTime": 397
+     },
+     {
+      "isRoom": 1,
+      "room": 21,
+      "roomTime": 458,
+      "scene": 4,
+      "sceneTime": 161
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 171,
+      "scene": 4,
+      "sceneTime": 286
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 153,
+      "scene": 4,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 1,
+      "room": 16,
+      "roomTime": 306,
+      "scene": 4,
+      "sceneTime": 71
+     },
+     {
+      "isRoom": 1,
+      "room": 9,
+      "roomTime": 81,
+      "scene": 4,
+      "sceneTime": 89
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 859,
+      "scene": 4,
+      "sceneTime": 696
+     },
+     {
+      "isRoom": 1,
+      "room": 11,
+      "roomTime": 127,
+      "scene": 4,
+      "sceneTime": 383
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 1450,
+      "scene": 4,
+      "sceneTime": 479
+     },
+     {
+      "isRoom": 1,
+      "room": 24,
+      "roomTime": 1718,
+      "scene": 4,
+      "sceneTime": 431
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 26,
+      "scene": 4,
+      "sceneTime": 32
+     },
+     {
+      "isRoom": 1,
+      "room": 24,
+      "roomTime": 158,
+      "scene": 4,
+      "sceneTime": 192
+     },
+     {
+      "isRoom": 1,
+      "room": 12,
+      "roomTime": 1378,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 13,
+      "roomTime": 794,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 11,
+      "roomTime": 112,
+      "scene": 4,
+      "sceneTime": 198
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 329,
+      "scene": 4,
+      "sceneTime": 51
+     },
+     {
+      "isRoom": 1,
+      "room": 24,
+      "roomTime": 158,
+      "scene": 4,
+      "sceneTime": 152
+     },
+     {
+      "isRoom": 1,
+      "room": 12,
+      "roomTime": 1145,
+      "scene": 4,
+      "sceneTime": 1633
+     },
+     {
+      "isRoom": 1,
+      "room": 13,
+      "roomTime": 760,
+      "scene": 4,
+      "sceneTime": 81
+     },
+     {
+      "isRoom": 1,
+      "room": 11,
+      "roomTime": 979,
+      "scene": 4,
+      "sceneTime": 862
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 209,
+      "scene": 4,
+      "sceneTime": 802
+     },
+     {
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 887,
+      "scene": 4,
+      "sceneTime": 1083
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 299,
+      "scene": 4,
+      "sceneTime": 1973
+     },
+     {
+      "isRoom": 1,
+      "room": 15,
+      "roomTime": 660,
+      "scene": 4,
+      "sceneTime": 88
+     },
+     {
+      "isRoom": 1,
+      "room": 18,
+      "roomTime": 401,
+      "scene": 4,
+      "sceneTime": 1001
+     },
+     {
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 972,
+      "scene": 4,
+      "sceneTime": 25
+     },
+     {
+      "isRoom": 1,
+      "room": 18,
+      "roomTime": 30,
+      "scene": 4,
+      "sceneTime": 145
+     },
+     {
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 43,
+      "scene": 4,
+      "sceneTime": 329
+     },
+     {
+      "isRoom": 1,
+      "room": 17,
+      "roomTime": 453,
+      "scene": 4,
+      "sceneTime": 105
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 131,
+      "scene": 4,
+      "sceneTime": 573
+     },
+     {
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 98,
+      "scene": 4,
+      "sceneTime": 1447
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 136,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 251,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 102,
+      "scene": 67,
+      "sceneTime": 489
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 99,
+      "scene": 36,
+      "sceneTime": 99
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 111,
+      "scene": 97,
+      "sceneTime": 105
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 107,
+      "scene": 28,
+      "sceneTime": 107
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 430,
+      "scene": 4,
+      "sceneTime": 63
+     },
+     {
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 106,
+      "scene": 4,
+      "sceneTime": 1013
+     },
+     {
+      "isRoom": 0,
+      "room": 4,
+      "roomTime": 235,
+      "scene": 62,
+      "sceneTime": 235
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 115,
+      "scene": 81,
+      "sceneTime": 115
+     },
+     {
+      "isRoom": 0,
+      "room": 4,
+      "roomTime": 1153,
+      "scene": 62,
+      "sceneTime": 1153
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 868,
+      "scene": 81,
+      "sceneTime": 868
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1999,
+      "scene": 99,
+      "sceneTime": 1999
+     },
+     {
+      "isRoom": 0,
+      "room": 12,
+      "roomTime": 695,
+      "scene": 62,
+      "sceneTime": 695
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 544,
+      "scene": 99,
+      "sceneTime": 544
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 101,
+      "scene": 67,
+      "sceneTime": 101
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 86,
+      "scene": 35,
+      "sceneTime": 86
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 73,
+      "scene": 32,
+      "sceneTime": 73
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2226,
+      "scene": 95,
+      "sceneTime": 2226
+     },
+     {
+      "isRoom": 0,
+      "room": 8,
+      "roomTime": 28,
+      "scene": 62,
+      "sceneTime": 28
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 199,
+      "scene": 95,
+      "sceneTime": 199
+     },
+     {
+      "isRoom": 0,
+      "room": 8,
+      "roomTime": 1065,
+      "scene": 62,
+      "sceneTime": 1065
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 510,
+      "scene": 95,
+      "sceneTime": 510
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 106,
+      "scene": 32,
+      "sceneTime": 106
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 189,
+      "scene": 27,
+      "sceneTime": 189
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 425,
+      "scene": 81,
+      "sceneTime": 425
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 270,
+      "scene": 84,
+      "sceneTime": 270
+     },
+     {
+      "isRoom": 0,
+      "room": 9,
+      "roomTime": 550,
+      "scene": 62,
+      "sceneTime": 550
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 829,
+      "scene": 84,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 159,
+      "scene": 84,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 1386,
+      "scene": 84,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 615,
+      "scene": 84,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2008,
+      "scene": 84,
+      "sceneTime": 4997
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 166,
+      "scene": 60,
+      "sceneTime": 166
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 38,
+      "scene": 84,
+      "sceneTime": 38
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 28,
+      "scene": 60,
+      "sceneTime": 28
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 64,
+      "scene": 84,
+      "sceneTime": 64
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 202,
+      "scene": 62,
+      "sceneTime": 202
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 31,
+      "scene": 84,
+      "sceneTime": 31
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 25,
+      "scene": 62,
+      "sceneTime": 25
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1225,
+      "scene": 84,
+      "sceneTime": 1225
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 1527,
+      "scene": 67,
+      "sceneTime": 1527
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 267,
+      "scene": 36,
+      "sceneTime": 267
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 85,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 417,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 595,
+      "scene": 67,
+      "sceneTime": 1097
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 81,
+      "scene": 37,
+      "sceneTime": 81
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 107,
+      "scene": 34,
+      "sceneTime": 107
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 51,
+      "scene": 29,
+      "sceneTime": 51
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 263,
+      "scene": 77,
+      "sceneTime": 263
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 36,
+      "scene": 29,
+      "sceneTime": 36
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 219,
+      "scene": 81,
+      "sceneTime": 219
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 395,
+      "scene": 82,
+      "sceneTime": 395
+     },
+     {
+      "isRoom": 0,
+      "room": 2,
+      "roomTime": 873,
+      "scene": 62,
+      "sceneTime": 873
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2307,
+      "scene": 82,
+      "sceneTime": 2307
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 124,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 409,
+      "scene": 67,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 98,
+      "scene": 67,
+      "sceneTime": 631
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 85,
+      "scene": 35,
+      "sceneTime": 85
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 57,
+      "scene": 32,
+      "sceneTime": 57
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 199,
+      "scene": 51,
+      "sceneTime": 199
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 535,
+      "scene": 32,
+      "sceneTime": 535
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 253,
+      "scene": 30,
+      "sceneTime": 253
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 62,
+      "scene": 53,
+      "sceneTime": 62
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 130,
+      "scene": 30,
+      "sceneTime": 130
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 342,
+      "scene": 32,
+      "sceneTime": 342
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 211,
+      "scene": 35,
+      "sceneTime": 211
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 368,
+      "scene": 32,
+      "sceneTime": 368
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 177,
+      "scene": 67,
+      "sceneTime": 177
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 92,
+      "scene": 35,
+      "sceneTime": 92
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 158,
+      "scene": 32,
+      "sceneTime": 158
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 87,
+      "scene": 27,
+      "sceneTime": 87
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 239,
+      "scene": 81,
+      "sceneTime": 239
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1061,
+      "scene": 86,
+      "sceneTime": 1061
+     },
+     {
+      "isRoom": 1,
+      "room": 8,
+      "roomTime": 1779,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 7,
+      "roomTime": 43,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 53,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 60,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 44,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 7,
+      "roomTime": 45,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 8,
+      "roomTime": 77,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 7,
+      "roomTime": 63,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 36,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 6,
+      "roomTime": 75,
+      "scene": 91,
+      "sceneTime": 2277
+     },
+     {
+      "isRoom": 0,
+      "room": 11,
+      "roomTime": 730,
+      "scene": 62,
+      "sceneTime": 730
+     },
+     {
+      "isRoom": 0,
+      "room": 6,
+      "roomTime": 153,
+      "scene": 91,
+      "sceneTime": 153
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 102,
+      "scene": 67,
+      "sceneTime": 102
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 461,
+      "scene": 35,
+      "sceneTime": 461
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 412,
+      "scene": 32,
+      "sceneTime": 412
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 68,
+      "scene": 27,
+      "sceneTime": 68
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 41,
+      "scene": 81,
+      "sceneTime": 41
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 67,
+      "scene": 27,
+      "sceneTime": 67
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 102,
+      "scene": 32,
+      "sceneTime": 102
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 433,
+      "scene": 51,
+      "sceneTime": 433
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 166,
+      "scene": 32,
+      "sceneTime": 166
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 483,
+      "scene": 86,
+      "sceneTime": 483
+     },
+     {
+      "isRoom": 1,
+      "room": 8,
+      "roomTime": 47,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 7,
+      "roomTime": 39,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 41,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 6,
+      "roomTime": 92,
+      "scene": 91,
+      "sceneTime": 220
+     },
+     {
+      "isRoom": 0,
+      "room": 11,
+      "roomTime": 583,
+      "scene": 62,
+      "sceneTime": 583
+     },
+     {
+      "isRoom": 1,
+      "room": 6,
+      "roomTime": 97,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 45,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 45,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 46,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 42,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 58,
+      "scene": 91,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 9,
+      "roomTime": 1927,
+      "scene": 91,
+      "sceneTime": 2261
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 100,
+      "scene": 67,
+      "sceneTime": 100
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 92,
+      "scene": 35,
+      "sceneTime": 92
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 51,
+      "scene": 32,
+      "sceneTime": 51
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 228,
+      "scene": 51,
+      "sceneTime": 228
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 126,
+      "scene": 32,
+      "sceneTime": 126
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 60,
+      "scene": 27,
+      "sceneTime": 60
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 435,
+      "scene": 81,
+      "sceneTime": 435
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 94,
+      "scene": 99,
+      "sceneTime": 94
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 152,
+      "scene": 54,
+      "sceneTime": 152
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1014,
+      "scene": 99,
+      "sceneTime": 1014
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1184,
+      "scene": 86,
+      "sceneTime": 1184
+     },
+     {
+      "isRoom": 0,
+      "room": 7,
+      "roomTime": 730,
+      "scene": 62,
+      "sceneTime": 730
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 70,
+      "scene": 86,
+      "sceneTime": 70
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 1876,
+      "scene": 91,
+      "sceneTime": 2374
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 115,
+      "scene": 67,
+      "sceneTime": 549
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 89,
+      "scene": 37,
+      "sceneTime": 89
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2560,
+      "scene": 34,
+      "sceneTime": 2560
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 67,
+      "scene": 29,
+      "sceneTime": 67
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 10127,
+      "scene": 77,
+      "sceneTime": 10127
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 40,
+      "scene": 29,
+      "sceneTime": 40
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2290,
+      "scene": 81,
+      "sceneTime": 2290
+     },
+     {
+      "isRoom": 0,
+      "room": 5,
+      "roomTime": 97,
+      "scene": 91,
+      "sceneTime": 97
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1294,
+      "scene": 85,
+      "sceneTime": 1294
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 218,
+      "scene": 52,
+      "sceneTime": 218
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1171,
+      "scene": 85,
+      "sceneTime": 1171
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 104,
+      "scene": 67,
+      "sceneTime": 939
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 93,
+      "scene": 35,
+      "sceneTime": 93
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 147,
+      "scene": 32,
+      "sceneTime": 147
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 52,
+      "scene": 27,
+      "sceneTime": 52
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1154,
+      "scene": 81,
+      "sceneTime": 1154
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 728,
+      "scene": 87,
+      "sceneTime": 728
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 4003,
+      "scene": 73,
+      "sceneTime": 4003
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 148,
+      "scene": 87,
+      "sceneTime": 148
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 1010,
+      "scene": 67,
+      "sceneTime": 1010
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 100,
+      "scene": 35,
+      "sceneTime": 100
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 111,
+      "scene": 32,
+      "sceneTime": 111
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 83,
+      "scene": 27,
+      "sceneTime": 83
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 276,
+      "scene": 81,
+      "sceneTime": 276
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 138,
+      "scene": 67,
+      "sceneTime": 733
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 91,
+      "scene": 37,
+      "sceneTime": 91
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 104,
+      "scene": 34,
+      "sceneTime": 104
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 51,
+      "scene": 29,
+      "sceneTime": 51
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1864,
+      "scene": 81,
+      "sceneTime": 1864
+     },
+     {
+      "isRoom": 0,
+      "room": 5,
+      "roomTime": 56,
+      "scene": 91,
+      "sceneTime": 56
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 346,
+      "scene": 85,
+      "sceneTime": 346
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 9582,
+      "scene": 52,
+      "sceneTime": 9582
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 222,
+      "scene": 85,
+      "sceneTime": 222
+     },
+     {
+      "isRoom": 0,
+      "room": 5,
+      "roomTime": 819,
+      "scene": 91,
+      "sceneTime": 819
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 226,
+      "scene": 81,
+      "sceneTime": 226
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 195,
+      "scene": 86,
+      "sceneTime": 195
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 86,
+      "scene": 67,
+      "sceneTime": 970
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 82,
+      "scene": 37,
+      "sceneTime": 82
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 102,
+      "scene": 34,
+      "sceneTime": 102
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 52,
+      "scene": 29,
+      "sceneTime": 52
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 993,
+      "scene": 81,
+      "sceneTime": 993
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 741,
+      "scene": 82,
+      "sceneTime": 741
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 301,
+      "scene": 83,
+      "sceneTime": 301
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2467,
+      "scene": 82,
+      "sceneTime": 2467
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 3272,
+      "scene": 96,
+      "sceneTime": 3272
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 697,
+      "scene": 62,
+      "sceneTime": 697
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2757,
+      "scene": 96,
+      "sceneTime": 2757
+     },
+     {
+      "isRoom": 0,
+      "room": 3,
+      "roomTime": 2635,
+      "scene": 98,
+      "sceneTime": 2635
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 222,
+      "scene": 46,
+      "sceneTime": 222
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 133,
+      "scene": 98,
+      "sceneTime": 188
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 86,
+      "scene": 97,
+      "sceneTime": 2152
+     },
+     {
+      "isRoom": 0,
+      "room": 26,
+      "roomTime": 3,
+      "scene": 4,
+      "sceneTime": 35394
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 3512,
+      "scene": 21,
+      "sceneTime": 3512
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 176,
+      "scene": 82,
+      "sceneTime": 176
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1567,
+      "scene": 68,
+      "sceneTime": 1567
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 85,
+      "scene": 97,
+      "sceneTime": 196
+     },
+     {
+      "isRoom": 0,
+      "room": 26,
+      "roomTime": 2,
+      "scene": 4,
+      "sceneTime": 539
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 1218,
+      "scene": 21,
+      "sceneTime": 1218
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 4993,
+      "scene": 97,
+      "sceneTime": 4993
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 25,
+      "scene": 98,
+      "sceneTime": 25
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 161,
+      "scene": 97,
+      "sceneTime": 161
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 881,
+      "scene": 59,
+      "sceneTime": 881
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 390,
+      "scene": 97,
+      "sceneTime": 390
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 442,
+      "scene": 62,
+      "sceneTime": 442
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 707,
+      "scene": 97,
+      "sceneTime": 707
+     },
+     {
+      "isRoom": 0,
+      "room": 12,
+      "roomTime": 568,
+      "scene": 62,
+      "sceneTime": 568
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 17713,
+      "scene": 97,
+      "sceneTime": 17713
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 889,
+      "scene": 67,
+      "sceneTime": 889
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 147,
+      "scene": 37,
+      "sceneTime": 147
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 98,
+      "scene": 34,
+      "sceneTime": 98
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 47,
+      "scene": 29,
+      "sceneTime": 47
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 247,
+      "scene": 81,
+      "sceneTime": 247
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 583,
+      "scene": 67,
+      "sceneTime": 583
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 707,
+      "scene": 37,
+      "sceneTime": 707
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 34,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 295,
+      "scene": 37,
+      "sceneTime": 295
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 105,
+      "scene": 34,
+      "sceneTime": 105
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 53,
+      "scene": 29,
+      "sceneTime": 53
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1073,
+      "scene": 81,
+      "sceneTime": 1073
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 487,
+      "scene": 99,
+      "sceneTime": 487
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 423,
+      "scene": 81,
+      "sceneTime": 423
+     },
+     {
+      "isRoom": 0,
+      "room": 4,
+      "roomTime": 359,
+      "scene": 62,
+      "sceneTime": 359
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 374,
+      "scene": 81,
+      "sceneTime": 374
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1769,
+      "scene": 87,
+      "sceneTime": 1769
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 20400,
+      "scene": 73,
+      "sceneTime": 20400
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 27,
+      "scene": 87,
+      "sceneTime": 27
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 19000,
+      "scene": 73,
+      "sceneTime": 19000
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 37,
+      "scene": 87,
+      "sceneTime": 37
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 9638,
+      "scene": 73,
+      "sceneTime": 9638
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 8413,
+      "scene": 73,
+      "sceneTime": 8413
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 4156,
+      "scene": 73,
+      "sceneTime": 4156
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 25,
+      "scene": 87,
+      "sceneTime": 25
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 5618,
+      "scene": 73,
+      "sceneTime": 5618
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 50,
+      "scene": 87,
+      "sceneTime": 50
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 4864,
+      "scene": 73,
+      "sceneTime": 4864
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 40,
+      "scene": 87,
+      "sceneTime": 40
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 4905,
+      "scene": 73,
+      "sceneTime": 4905
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2444,
+      "scene": 73,
+      "sceneTime": 2444
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 7068,
+      "scene": 73,
+      "sceneTime": 7068
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 5739,
+      "scene": 87,
+      "sceneTime": 5739
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2056,
+      "scene": 81,
+      "sceneTime": 2056
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 31,
+      "scene": 29,
+      "sceneTime": 31
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 54,
+      "scene": 77,
+      "sceneTime": 54
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 47,
+      "scene": 29,
+      "sceneTime": 47
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 67,
+      "scene": 77,
+      "sceneTime": 67
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 68,
+      "scene": 77,
+      "sceneTime": 68
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 36,
+      "scene": 29,
+      "sceneTime": 36
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 64,
+      "scene": 77,
+      "sceneTime": 64
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 66,
+      "scene": 77,
+      "sceneTime": 66
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 71,
+      "scene": 77,
+      "sceneTime": 71
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 24,
+      "scene": 29,
+      "sceneTime": 24
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 57,
+      "scene": 77,
+      "sceneTime": 57
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 35,
+      "scene": 29,
+      "sceneTime": 35
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 52,
+      "scene": 77,
+      "sceneTime": 52
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 52,
+      "scene": 77,
+      "sceneTime": 52
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 36,
+      "scene": 29,
+      "sceneTime": 36
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 58,
+      "scene": 77,
+      "sceneTime": 58
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 36,
+      "scene": 29,
+      "sceneTime": 36
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 530,
+      "scene": 81,
+      "sceneTime": 530
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 250,
+      "scene": 87,
+      "sceneTime": 250
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2078,
+      "scene": 73,
+      "sceneTime": 2078
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1139,
+      "scene": 73,
+      "sceneTime": 1139
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1039,
+      "scene": 73,
+      "sceneTime": 1039
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 25,
+      "scene": 87,
+      "sceneTime": 25
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 3939,
+      "scene": 73,
+      "sceneTime": 3939
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 37,
+      "scene": 87,
+      "sceneTime": 37
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 3399,
+      "scene": 73,
+      "sceneTime": 3399
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 25,
+      "scene": 87,
+      "sceneTime": 25
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 716,
+      "scene": 73,
+      "sceneTime": 716
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 520,
+      "scene": 73,
+      "sceneTime": 520
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 33,
+      "scene": 87,
+      "sceneTime": 33
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1160,
+      "scene": 73,
+      "sceneTime": 1160
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 37,
+      "scene": 87,
+      "sceneTime": 37
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1823,
+      "scene": 73,
+      "sceneTime": 1823
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 38,
+      "scene": 87,
+      "sceneTime": 38
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 524,
+      "scene": 81,
+      "sceneTime": 524
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 57,
+      "scene": 67,
+      "sceneTime": 57
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 122,
+      "scene": 37,
+      "sceneTime": 122
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 101,
+      "scene": 34,
+      "sceneTime": 101
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 39,
+      "scene": 29,
+      "sceneTime": 39
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 53,
+      "scene": 77,
+      "sceneTime": 53
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 130,
+      "scene": 77,
+      "sceneTime": 130
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 56,
+      "scene": 77,
+      "sceneTime": 56
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 24,
+      "scene": 29,
+      "sceneTime": 24
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 90,
+      "scene": 77,
+      "sceneTime": 90
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 52,
+      "scene": 77,
+      "sceneTime": 52
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 55,
+      "scene": 77,
+      "sceneTime": 55
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 55,
+      "scene": 77,
+      "sceneTime": 55
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 60,
+      "scene": 77,
+      "sceneTime": 60
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 54,
+      "scene": 77,
+      "sceneTime": 54
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 61,
+      "scene": 77,
+      "sceneTime": 61
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 35,
+      "scene": 29,
+      "sceneTime": 35
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 757,
+      "scene": 81,
+      "sceneTime": 757
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 290,
+      "scene": 87,
+      "sceneTime": 290
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 5454,
+      "scene": 73,
+      "sceneTime": 5454
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1964,
+      "scene": 73,
+      "sceneTime": 1964
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1182,
+      "scene": 73,
+      "sceneTime": 1182
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 56,
+      "scene": 87,
+      "sceneTime": 56
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 81,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 52,
+      "scene": 67,
+      "sceneTime": 52
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 84,
+      "scene": 37,
+      "sceneTime": 84
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 92,
+      "scene": 34,
+      "sceneTime": 92
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 46,
+      "scene": 29,
+      "sceneTime": 46
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 718,
+      "scene": 81,
+      "sceneTime": 718
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 645,
+      "scene": 87,
+      "sceneTime": 645
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 3064,
+      "scene": 73,
+      "sceneTime": 3064
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 4122,
+      "scene": 73,
+      "sceneTime": 4122
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2205,
+      "scene": 73,
+      "sceneTime": 2205
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2338,
+      "scene": 73,
+      "sceneTime": 2338
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 271,
+      "scene": 87,
+      "sceneTime": 271
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 7161,
+      "scene": 73,
+      "sceneTime": 7161
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 25,
+      "scene": 87,
+      "sceneTime": 25
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 699,
+      "scene": 73,
+      "sceneTime": 699
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 648,
+      "scene": 87,
+      "sceneTime": 648
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 2066,
+      "scene": 73,
+      "sceneTime": 2066
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1472,
+      "scene": 87,
+      "sceneTime": 1472
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 596,
+      "scene": 81,
+      "sceneTime": 596
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 268,
+      "scene": 29,
+      "sceneTime": 268
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 66,
+      "scene": 77,
+      "sceneTime": 66
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 36,
+      "scene": 29,
+      "sceneTime": 36
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 77,
+      "scene": 77,
+      "sceneTime": 77
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 58,
+      "scene": 77,
+      "sceneTime": 58
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 46,
+      "scene": 77,
+      "sceneTime": 46
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 35,
+      "scene": 29,
+      "sceneTime": 35
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 73,
+      "scene": 77,
+      "sceneTime": 73
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 24,
+      "scene": 29,
+      "sceneTime": 24
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 57,
+      "scene": 77,
+      "sceneTime": 57
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 24,
+      "scene": 29,
+      "sceneTime": 24
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 76,
+      "scene": 77,
+      "sceneTime": 76
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 35,
+      "scene": 29,
+      "sceneTime": 35
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 76,
+      "scene": 77,
+      "sceneTime": 76
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 24,
+      "scene": 29,
+      "sceneTime": 24
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 49,
+      "scene": 77,
+      "sceneTime": 49
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 23,
+      "scene": 29,
+      "sceneTime": 23
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 77,
+      "scene": 77,
+      "sceneTime": 77
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 36,
+      "scene": 29,
+      "sceneTime": 36
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 623,
+      "scene": 81,
+      "sceneTime": 623
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 232,
+      "scene": 87,
+      "sceneTime": 232
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1073,
+      "scene": 73,
+      "sceneTime": 1073
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1769,
+      "scene": 73,
+      "sceneTime": 1769
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 26,
+      "scene": 87,
+      "sceneTime": 26
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1108,
+      "scene": 73,
+      "sceneTime": 1108
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 34,
+      "scene": 87,
+      "sceneTime": 34
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 27,
+      "scene": 81,
+      "sceneTime": 27
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 140,
+      "scene": 73,
+      "sceneTime": 140
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 89,
+      "scene": 81,
+      "sceneTime": 89
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 379,
+      "scene": 87,
+      "sceneTime": 379
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 3205,
+      "scene": 81,
+      "sceneTime": 3205
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1117,
+      "scene": 86,
+      "sceneTime": 1117
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 232,
+      "scene": 81,
+      "sceneTime": 232
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 24,
+      "scene": 81,
+      "sceneTime": 24
+     }
+    ],
+    "scenesDiscovered": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "tsIdx": 585
+   },
+   "version": 1
+  },
+  "trackerData": {
+   "data": {
+    "areasSpoiled": 0,
+    "checkStatus": [
+     {
+      "randomizerCheck": 6,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 19,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 47,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 51,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 56,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 57,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 58,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 68,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 70,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 71,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 119,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 145,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 197,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 207,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 208,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 209,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 210,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 211,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 212,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 213,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 214,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 216,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 228,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 232,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 300,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 488,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 490,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 491,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 492,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 493,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 494,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 495,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 496,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 497,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 500,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 501,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 502,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 503,
+      "skipped": false,
+      "status": 5
+     }
+    ],
+    "entrances": null
+   },
+   "version": 1
+  }
+ },
+ "version": 1
+}
