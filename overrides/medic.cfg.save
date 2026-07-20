@@ -1,0 +1,14 @@
+//==================================================
+//            medic configration file
+m_filter "0"
+r_drawviewmodel "0"   
+m_rawinput "1"
+fps_max "144"
+tf_medigun_autoheal "1"
+hud_medicautocallers "1"
+hud_medicautocallersthreshold "60"
+bind "ALT" "say_team spy behind us watch out"
+bind "\" "say_team uber-charge ready"
+echo "========================================="
+echo "        MEDIC CONFIGURATION LOADED       "
+echo "========================================="
