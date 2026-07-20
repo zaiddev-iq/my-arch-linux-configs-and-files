@@ -28,3 +28,10 @@ things i need to install
 25- brightnessctl
 26- swaync
 27- oh-my-zsh
+28- sober
+29- pipewire
+30- wirePlumper
+31- alsa
+32- pipewire-pulse
+33- bluez
+34- lazyvim
